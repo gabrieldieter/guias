@@ -1,0 +1,75 @@
+==============================================================
+ MANUAL 01-B  |  PURIFICAÇÃO DE ÁGUA
+==============================================================
+
+REGRA DE OURO
+-------------
+Toda água de fonte natural pode conter bactérias, vírus e
+parasitas, mesmo que pareça limpa. Purifique sempre.
+
+PASSO 1 - CLARIFICAR (remover sujeira)
+--------------------------------------
+- Deixe a água descansar num recipiente por algumas horas e
+  despeje só a parte de cima.
+- Coe com pano limpo (camiseta dobrada várias vezes, filtro de café).
+- Filtro improvisado (garrafa PET cortada, de cima para baixo):
+    pano -> carvão vegetal triturado -> areia fina -> areia grossa
+    -> cascalho.
+  ATENÇÃO: filtro improvisado só CLAREIA. Não torna a água segura.
+  Depois, faça o Passo 2.
+
+PASSO 2 - DESINFETAR (escolha um método)
+----------------------------------------
+A) FERVURA  (método mais confiável)
+   - Ferva em fervura forte (borbulhando) por 1 minuto.
+   - Acima de 2.000 m de altitude: 3 minutos.
+   - Deixe esfriar tampado. Para melhorar o gosto, passe de um
+     recipiente a outro algumas vezes (oxigena).
+
+B) HIPOCLORITO / ÁGUA SANITÁRIA
+   - Use água sanitária comum (2,0% a 2,5% de cloro ativo),
+     SEM perfume, SEM alvejante colorido, SEM aditivos.
+   - Dose: 2 gotas por litro de água limpa.
+           4 gotas por litro se a água estiver turva ou fria.
+   - Misture e espere 30 minutos antes de beber.
+   - Deve ficar um leve cheiro de cloro. Se não tiver cheiro,
+     repita a dose e espere mais 15 min.
+   - Hipoclorito de sódio 2,5% vendido em postos de saúde:
+     siga a instrução do frasco (geralmente 2 gotas/litro).
+
+C) PASTILHAS DE PURIFICAÇÃO (cloro ou dióxido de cloro)
+   - Siga exatamente a bula: dose e tempo de espera variam
+     (30 min a 4 h). Dióxido de cloro é mais eficaz contra
+     parasitas resistentes.
+
+D) SODIS - DESINFECÇÃO SOLAR
+   - Garrafa PET transparente, sem rótulo, até 2 litros.
+   - Água precisa estar CLARA (consegue ler texto através dela).
+   - Encha, agite, feche e deixe deitada ao sol direto:
+       dia ensolarado: mínimo 6 horas
+       dia nublado:    2 dias seguidos
+       chuva constante: não funciona, use outro método.
+   - Colocar sobre superfície metálica ou telha ajuda.
+
+E) FILTROS PORTÁTEIS (tipo canudo/bomba)
+   - Removem bactérias e parasitas. A maioria NÃO remove vírus.
+   - Em área com esgoto ou muitas pessoas: filtre E depois use
+     cloro ou ferva.
+
+O QUE NENHUM DESSES MÉTODOS RESOLVE
+-----------------------------------
+- Contaminação química (combustível, agrotóxico, metais pesados).
+  Fervura até concentra químicos. Evite essas fontes.
+- Água salgada: só destilação remove sal.
+
+DESTILAÇÃO SIMPLES (água salgada ou suspeita)
+---------------------------------------------
+- Ferva a água numa panela com tampa inclinada; o vapor condensa
+  na tampa e escorre para um recipiente limpo.
+- Ou: pano limpo sobre o vapor, depois torça. Rende pouco.
+
+ARMAZENAMENTO
+-------------
+- Recipiente limpo, tampado, longe do sol e de produtos químicos.
+- Não mergulhe copos ou mãos no recipiente; despeje.
+- Água tratada guardada: troque a cada 6 meses.

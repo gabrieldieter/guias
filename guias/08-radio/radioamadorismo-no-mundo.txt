@@ -1,0 +1,145 @@
+==============================================================
+ MANUAL 08.1  |  RADIOAMADORISMO NO MUNDO
+==============================================================
+
+O QUE É
+-------
+Serviço de radiocomunicação NÃO comercial, feito por pessoas
+licenciadas, para experimentação, aprendizado, contato entre
+pessoas e APOIO EM EMERGÊNCIAS. Quando celular, internet e
+energia caem, o radioamador muitas vezes é o único canal que
+funciona: precisa só de rádio, antena e bateria.
+- Cerca de 3 milhões de radioamadores no mundo.
+- Toda estação tem um INDICATIVO de chamada único (ex.: PY2ABC).
+- Para TRANSMITIR é preciso licença. OUVIR é livre na maioria
+  dos países (inclusive no Brasil).
+
+QUEM ORGANIZA
+-------------
+- UIT/ITU (União Internacional de Telecomunicações, ONU):
+  define as faixas de frequência no mundo.
+- IARU (International Amateur Radio Union): federação das
+  ligas nacionais. Brasil = LABRE.
+- O mundo é dividido em 3 REGIÕES da UIT:
+    Região 1: Europa, África, Oriente Médio, Rússia
+    Região 2: Américas (BRASIL ESTÁ AQUI)
+    Região 3: Ásia e Oceania
+  As faixas mudam um pouco de região para região.
+
+PREFIXOS (primeiras letras do indicativo = país)
+-----------------------------------------------
+  Brasil ........ PP-PY, ZV-ZZ     Portugal ...... CT, CU (Açores)
+  EUA ........... K, N, W, AA-AL   Argentina ..... LU, L2-L9
+  Canadá ........ VA-VE            Uruguai ....... CX
+  Reino Unido ... G, M, 2E         Paraguai ...... ZP
+  Alemanha ...... DA-DR            Chile ......... CE, CA-CD
+  Japão ......... JA-JS, 7J-7N     Espanha ....... EA-EH
+  Itália ........ I                Austrália ..... VK
+  Estação ISS ... NA1SS / OR4ISS (rádio na Estação Espacial)
+
+PRINCIPAIS FAIXAS (valores da Região 2 - Américas)
+--------------------------------------------------
+HF (ondas curtas - longa distância, ricocheteiam na ionosfera)
+  160 m ..  1,800 -  2,000 MHz   noite, regional/continental
+   80 m ..  3,500 -  4,000 MHz   NOITE, até ~500-1000 km
+   40 m ..  7,000 -  7,300 MHz   DIA e NOITE - a mais útil
+   30 m .. 10,100 - 10,150 MHz   só modos digitais/CW
+   20 m .. 14,000 - 14,350 MHz   DIA, intercontinental
+   17 m .. 18,068 - 18,168 MHz   dia, longa distância
+   15 m .. 21,000 - 21,450 MHz   dia, depende do ciclo solar
+   12 m .. 24,890 - 24,990 MHz   dia, ciclo solar alto
+   10 m .. 28,000 - 29,700 MHz   dia, ciclo solar alto
+VHF/UHF (linha de visada - local, 10-80 km; mais com repetidora)
+    6 m .. 50 - 54 MHz           "faixa mágica", aberturas raras
+    2 m .. 144 - 148 MHz         REPETIDORAS, rádios portáteis
+   70 cm . 430 - 440 MHz         repetidoras, portáteis, satélite
+
+REGRA PRÁTICA DE PROPAGAÇÃO
+---------------------------
+- DE DIA: faixas ALTAS (20 m, 17 m, 15 m) vão longe.
+- DE NOITE: faixas BAIXAS (40 m, 80 m) funcionam melhor.
+- 40 m é o "coringa": cobre o Brasil quase a qualquer hora.
+- Distâncias curtas (100-400 km) em HF: use 40 m/80 m com
+  antena BAIXA (NVIS - antena a 3-6 m do chão, sinal sobe e
+  desce na vertical, cobrindo a região sem "zona de silêncio").
+- O sol tem ciclos de ~11 anos: no máximo solar as faixas
+  altas abrem muito; no mínimo, só as baixas funcionam bem.
+
+FREQUÊNCIAS DE EMERGÊNCIA DA IARU (Centros de Atividade)
+-------------------------------------------------------
+Combinadas internacionalmente para tráfego de emergência:
+  80 m:  3,750 e 3,985 MHz (Região 2) | 3,760 (R1) | 3,600 (R3)
+  40 m:  7,060 / 7,240 / 7,275 MHz (Região 2) | 7,110 (R1 e R3)
+  20 m: 14,300 MHz (MUNDIAL)
+  17 m: 18,160 MHz (MUNDIAL)
+  15 m: 21,360 MHz (MUNDIAL)
+Em desastre, MANTENHA ESSAS FREQUÊNCIAS LIVRES, só escute.
+
+REDES DE EMERGÊNCIA CONHECIDAS NO MUNDO
+---------------------------------------
+- EUA: ARES (ARRL), RACES (governo), SKYWARN (clima).
+- Hurricane Watch Net: 14,325 MHz (dia) e 7,268 MHz (noite),
+  ativa durante furacões no Atlântico/Caribe.
+- Maritime Mobile Service Net / Intercontinental Net: 14,300 MHz.
+- SATERN (Exército de Salvação): 14,265 MHz.
+- Reino Unido: RAYNET. Portugal: REN (Rede de Emergência).
+- Brasil: RENER (ver manual 08.2).
+
+MODOS DE OPERAÇÃO
+-----------------
+- FONIA (voz): SSB em HF (LSB abaixo de 10 MHz, USB acima),
+  FM em VHF/UHF.
+- CW (telegrafia/código Morse): vai mais longe com pouca
+  potência; funciona quando a voz não passa.
+- DIGITAIS:
+    FT8 (7,074 / 14,074 MHz) - sinais muito fracos, só troca
+      de dados básicos; ótimo para TESTAR se a faixa abriu.
+    JS8Call (7,078 / 14,078 MHz) - mensagens de texto por HF.
+    Winlink - E-MAIL por rádio, sem internet. Muito usado em
+      desastres.
+    APRS - posição GPS e mensagens curtas.
+      Brasil: 145,570 MHz | EUA: 144,390 | Europa: 144,800.
+- SATÉLITE: ISS repetidora FM 145,990 sobe / 437,800 desce;
+  APRS da ISS 145,825 MHz.
+
+ALFABETO FONÉTICO INTERNACIONAL (OTAN/UIT)
+------------------------------------------
+A Alfa     B Bravo    C Charlie  D Delta    E Echo     F Foxtrot
+G Golf     H Hotel    I India    J Juliett  K Kilo     L Lima
+M Mike     N November O Oscar    P Papa     Q Quebec   R Romeo
+S Sierra   T Tango    U Uniform  V Victor   W Whiskey  X X-ray
+Y Yankee   Z Zulu
+Números: diga dígito a dígito ("um-quatro-três" = 143).
+
+CÓDIGO Q MAIS USADO
+-------------------
+QRZ? Quem me chama?          QTH  Minha localização é...
+QSL  Confirmado/entendido    QRM  Interferência (outras estações)
+QSO  Contato/conversa        QRN  Ruído atmosférico/estática
+QRT  Encerrando transmissão  QRP  Baixa potência
+QRX  Aguarde                 QSY  Mudar de frequência
+QTR  Hora certa              QAP  Na escuta
+73 = abraços/cumprimentos    88 = beijos (uso informal)
+
+SINAL DE SOCORRO
+----------------
+- Voz: "MAYDAY, MAYDAY, MAYDAY" (perigo grave e iminente
+  à vida). "PAN-PAN" (urgência, sem risco imediato à vida).
+- Morse: SOS  =  ...  ---  ...  (sem pausa entre as letras)
+- Formato da mensagem: QUEM (indicativo/nome), ONDE (local,
+  coordenadas), O QUÊ (situação), QUANTOS (pessoas/feridos),
+  DO QUE PRECISA. Repita devagar. Depois escute.
+- Lei internacional (Regulamento de Rádio da UIT): em PERIGO
+  REAL À VIDA, qualquer pessoa pode usar qualquer meio e
+  frequência para pedir socorro. Fora disso, transmitir sem
+  licença é crime.
+
+COMO COMEÇAR (qualquer país)
+----------------------------
+1. Compre um receptor de ondas curtas ou um SDR (dongle USB
+   barato) e OUÇA. Aprenda o protocolo escutando.
+2. Procure a liga nacional (no Brasil: LABRE) e um clube local.
+3. Estude para a prova e tire a licença.
+4. Comece com um portátil VHF/UHF e uma repetidora local;
+   depois evolua para HF.
+5. Participe de exercícios de emergência (ex.: Field Day).

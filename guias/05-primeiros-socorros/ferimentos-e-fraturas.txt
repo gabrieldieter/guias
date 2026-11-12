@@ -1,0 +1,106 @@
+==============================================================
+ MANUAL 05  |  PRIMEIROS SOCORROS - FERIMENTOS E FRATURAS
+==============================================================
+
+AVISO: este é um guia de referência rápida. Ele não substitui
+um curso de primeiros socorros nem atendimento médico. Procure
+socorro profissional assim que possível.
+
+TELEFONES (BRASIL)
+------------------
+192 - SAMU          193 - Bombeiros
+190 - Polícia       112 - Emergência (redireciona em celulares)
+
+ANTES DE TUDO
+-------------
+1. SEGURANÇA: o local é seguro para você? Não vire mais uma vítima.
+2. Chame ajuda (ou mande alguém chamar).
+3. Use luvas ou um saco plástico nas mãos se houver sangue.
+
+ORDEM DE AVALIAÇÃO (X-A-B-C)
+----------------------------
+X - HEMORRAGIA GRAVE: sangue jorrando ou se acumulando rápido.
+    É a 1ª coisa a parar. Mata em minutos.
+A - VIAS AÉREAS: está livre? Inclinar a cabeça para trás e
+    elevar o queixo (se não houver suspeita de trauma no pescoço).
+B - RESPIRAÇÃO: olhe o tórax, ouça, sinta por até 10 s.
+    Não respira -> RCP: 100-120 compressões/min no centro do
+    peito, 5-6 cm de profundidade, sem parar até chegar ajuda.
+C - CIRCULAÇÃO: pele pálida, fria, suada = sinal de choque.
+
+SANGRAMENTO
+-----------
+1. PRESSÃO DIRETA: pano limpo sobre o ferimento, pressione firme
+   e contínuo por 10 min, no mínimo. Não fique tirando para olhar.
+   Se encharcar, coloque outro pano POR CIMA e continue.
+2. Ferimento fundo: preencha a cavidade com gaze/pano e pressione.
+3. TORNIQUETE (braços e pernas, sangramento que não para):
+   - 5 a 7 cm ACIMA do ferimento, nunca sobre articulação.
+   - Faixa larga (4 cm ou mais), nunca fio ou arame.
+   - Aperte (com um bastão girando) até o sangramento PARAR.
+   - Anote a HORA na testa ou na pele da vítima.
+   - NÃO afrouxe. Só um profissional deve retirar.
+   - Dói muito: isso é normal.
+4. Objeto cravado: NÃO retire. Estabilize-o com panos ao redor.
+
+FERIMENTOS LEVES / CORTES
+-------------------------
+1. Lave com bastante água potável corrente (pelo menos 5 min).
+   Lavar bem é o passo mais importante contra infecção.
+2. Retire a sujeira visível (pinça limpa).
+3. Cubra com curativo limpo. Troque 1x ao dia ou se molhar.
+4. Não feche com fita feridas sujas, mordidas ou perfurações
+   profundas: elas precisam drenar.
+SINAIS DE INFECÇÃO: vermelhidão que aumenta, calor, inchaço, pus,
+estrias vermelhas subindo pelo membro, febre -> procure médico.
+Tétano: verifique se a vacina está em dia (reforço a cada 10 anos).
+
+QUEIMADURAS
+-----------
+1. Água corrente em temperatura ambiente por 20 minutos.
+2. Retire anéis, relógios e roupas soltas (NÃO arranque o que
+   estiver grudado).
+3. Cubra com plástico filme ou pano limpo e úmido, sem apertar.
+4. NÃO use: gelo, pasta de dente, manteiga, pó de café, óleo.
+5. NÃO estoure bolhas.
+GRAVE se: maior que a palma da mão da vítima, no rosto, mãos,
+pés, genitais, articulações, ou pele branca/carbonizada.
+
+FRATURAS, LUXAÇÕES E ENTORSES
+-----------------------------
+SINAIS: dor forte, deformidade, inchaço, roxo, incapacidade de
+mover, osso exposto, estalo na hora da lesão.
+1. NÃO tente colocar o osso no lugar.
+2. IMOBILIZE na posição em que encontrou:
+   - Tala: galhos retos, papelão, revista enrolada, bastões.
+   - A tala deve pegar a articulação ACIMA e ABAIXO da lesão.
+   - Acolchoe com panos. Amarre com tiras largas, firme mas
+     sem apertar demais.
+   - Braço: tipoia com camiseta ou lenço.
+   - Perna: pode-se amarrar à perna boa (com acolchoamento).
+3. CHEQUE A CIRCULAÇÃO depois de imobilizar: dedos rosados, quentes,
+   com sensibilidade. Se ficarem roxos, frios ou dormentes,
+   afrouxe as amarras.
+4. FRATURA EXPOSTA: cubra o osso com pano limpo e úmido,
+   controle o sangramento ao redor, não empurre o osso.
+5. Gelo enrolado em pano (20 min, intervalos de 1 h) reduz
+   o inchaço.
+SUSPEITA DE LESÃO NA COLUNA/PESCOÇO (queda de altura, acidente,
+mergulho): NÃO mova a vítima, a não ser que haja risco imediato
+(fogo, afogamento). Mantenha a cabeça alinhada com o corpo.
+
+ESTADO DE CHOQUE
+----------------
+Sinais: pele pálida, fria e suada; pulso rápido e fraco;
+confusão; sede; respiração rápida.
+1. Deite a vítima e mantenha-a aquecida (manta, roupas).
+2. Eleve as pernas ~30 cm, SE não houver fratura nelas ou
+   lesão na coluna.
+3. Não dê comida nem bebida.
+4. Tranquilize e monitore a respiração até chegar socorro.
+
+POSIÇÃO LATERAL DE SEGURANÇA
+----------------------------
+Vítima inconsciente QUE RESPIRA e sem suspeita de lesão na coluna:
+deite-a de lado, joelho de cima dobrado para apoiar, cabeça
+inclinada para trás para a saliva/vômito escorrer.

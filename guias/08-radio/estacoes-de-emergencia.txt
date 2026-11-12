@@ -1,0 +1,116 @@
+==============================================================
+ MANUAL 08.3  |  ESTAÇÕES E FREQUÊNCIAS DE EMERGÊNCIA
+==============================================================
+
+TELEFONES DE EMERGÊNCIA NO BRASIL (anote no kit)
+-----------------------------------------------
+  190 Polícia Militar        193 Bombeiros
+  192 SAMU                   199 Defesa Civil
+  185 Salvamento Marítimo (Marinha)
+  191 Polícia Rodoviária Federal
+  Ligações de emergência funcionam SEM CRÉDITO e às vezes
+  pela rede de outra operadora quando a sua não tem sinal.
+
+ALERTAS DA DEFESA CIVIL
+-----------------------
+- SMS: envie o seu CEP para 40199 (gratuito) e receba avisos
+  de chuva forte, enchentes, deslizamentos e ventos da região.
+  Pode cadastrar mais de um CEP (casa, trabalho, família).
+- "Defesa Civil Alerta" (cell broadcast): alerta que toca no
+  celular com som alto, mesmo sem cadastro, em áreas de risco
+  grave. NÃO desative os alertas de emergência no celular.
+- Também por WhatsApp e Google (alertas públicos).
+
+REGRAS GERAIS EM QUALQUER RÁDIO
+-------------------------------
+1. ESCUTE ANTES de falar. Não interrompa tráfego de emergência.
+2. Pedido de socorro: "MAYDAY, MAYDAY, MAYDAY, aqui é ___".
+   Urgência sem risco imediato: "PAN-PAN" (3 vezes).
+3. Mensagem curta: QUEM / ONDE / O QUÊ / QUANTOS / PRECISA.
+4. Fale devagar, boca a 5 cm do microfone, aperte o PTT,
+   espere 1 s, fale, solte. Depois ESCUTE por 1-2 minutos.
+5. Repita em intervalos (ex.: a cada 15 min ou nas horas
+   cheias e meias) para economizar bateria.
+6. Ponto ALTO e aberto = muito mais alcance em VHF/UHF.
+
+MARÍTIMO (VHF marinho - Marinha do Brasil e embarcações)
+-------------------------------------------------------
+  Canal 16 (156,800 MHz) - SOCORRO, segurança e chamada.
+             Monitorado por Marinha, capitanias, navios.
+  Canal 70 (156,525 MHz) - DSC (chamada seletiva digital; o
+             botão vermelho "DISTRESS" do rádio). Só dados.
+  Canal 6  (156,300 MHz) - comunicação navio-navio/SAR.
+  Canal 13 (156,650 MHz) - navegação/ponte a ponte.
+  HF marítimo: 2182 kHz (voz, socorro tradicional) e
+             frequências DSC 2187,5 / 8414,5 kHz.
+  Telefone: 185 (Salvamento Marítimo). O Brasil coordena SAR
+  em grande parte do Atlântico Sul (SALVAMAR BRASIL).
+
+AERONÁUTICO
+-----------
+  121,500 MHz - EMERGÊNCIA aeronáutica (voz). Monitorada por
+                controle de tráfego e muitas aeronaves em voo.
+                Só use em emergência real.
+  243,000 MHz - emergência militar (UHF).
+  Avião sobrevoando: rádios aeronáuticos alcançam 100+ km
+  porque o avião está alto. Um VHF portátil de aviação pode
+  falar com ele em situação extrema.
+
+BALIZAS DE SOCORRO (satélite - COSPAS-SARSAT)
+--------------------------------------------
+- EPIRB (barcos), ELT (aviões), PLB (pessoal, de bolso).
+- Transmitem em 406 MHz para satélites, com posição GPS.
+  No Brasil, o alerta vai para o BRMCC (Centro de Controle
+  de Missão, Força Aérea) que aciona o resgate.
+- PLB precisa ser REGISTRADA (no Brasil, junto à Força
+  Aérea/Marinha) com seus dados e contatos.
+- Comunicadores via satélite (Garmin inReach, SPOT, Zoleo) e
+  celulares recentes com SOS via satélite também funcionam
+  sem sinal de celular, com céu aberto.
+
+RADIOAMADOR - EMERGÊNCIA
+------------------------
+  40 m: 7,060 / 7,240 / 7,275 MHz (IARU Região 2)
+  80 m: 3,750 / 3,985 MHz (IARU Região 2)
+  20 m: 14,300 MHz (mundial) | 17 m: 18,160 | 15 m: 21,360
+  VHF/UHF: repetidoras locais (anote shift e tom!)
+  Simplex VHF comum: 146,520 MHz (chamada FM nas Américas)
+  Simplex UHF comum: 446,000 MHz
+  APRS Brasil: 145,570 MHz
+  RENER/LABRE: frequências por estado - consulte antes.
+
+FAIXA DO CIDADÃO (PX - 27 MHz)
+-----------------------------
+  Canal 9  (27,065 MHz AM) - EMERGÊNCIA / auxílio.
+  Canal 19 (27,185 MHz AM) - estradas, caminhoneiros.
+  Muitos caminhoneiros e PXistas ainda escutam esses canais.
+
+RÁDIOS DE USO LIVRE (talkabout / FRS / PMR)
+------------------------------------------
+- Não há canal oficial de emergência monitorado no Brasil.
+- Costume: canal 1 para chamada, e muitos grupos usam o
+  canal 3 como "canal de sobrevivência". Mais importante:
+  COMBINE com a família e vizinhos qual canal e subtom usar
+  e um HORÁRIO de escuta (ex.: 5 min em toda hora cheia).
+- Europa: PMR446, canal 8 (446,09375 MHz) costuma ser usado
+  para emergência informal.
+
+PLANO DE COMUNICAÇÃO DA FAMÍLIA (preencha e guarde no kit)
+---------------------------------------------------------
+  Ponto de encontro 1 (bairro): ___________________________
+  Ponto de encontro 2 (fora):   ___________________________
+  Contato fora da cidade:       ___________________________
+  Canal de rádio combinado: ____  Subtom: ____
+  Horário de escuta: __________________ (ex.: :00 a :05)
+  Rádio AM/FM local de referência: _____________ kHz/MHz
+  Repetidora local: ________ MHz  Shift ___  Tom ____ Hz
+  (Celulares: SMS passa quando ligação não passa.)
+
+ENERGIA PARA O RÁDIO
+--------------------
+- Pilhas AA/AAA de lítio (duram mais, não vazam, aguentam frio).
+- Rádio de manivela + solar (AM/FM/OC) no kit de emergência.
+- Bateria 12 V de carro alimenta rádio de HF/VHF móvel.
+- Power bank + cabo USB para HTs que carregam por USB-C.
+- Economia: transmita pouco, use potência BAIXA quando der,
+  desligue entre os horários de escuta combinados.
