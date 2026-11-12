@@ -1,0 +1,84 @@
+==============================================================
+ MANUAL 03  |  FOGO - MÉTODOS DE IGNIÇÃO
+==============================================================
+
+PARA QUE SERVE
+--------------
+Calor, secar roupa, ferver água, cozinhar, luz, afastar animais,
+sinalizar resgate e manter o moral.
+
+TRIÂNGULO DO FOGO
+-----------------
+CALOR + COMBUSTÍVEL + OXIGÊNIO. Faltou um, o fogo não pega.
+Erro mais comum: abafar o fogo com lenha demais (falta oxigênio).
+
+PREPARE TUDO ANTES DE ACENDER
+-----------------------------
+Separe 3 pilhas, a de lenha bem maior que as outras:
+1. ISCA (pega com faísca): capim seco, casca fina de árvore,
+   algodão, palha de aço, fiapos de pano, ninho de pássaro vazio,
+   serragem, papel. Faça um "ninho" do tamanho de um punho.
+2. GRAVETOS: da espessura de um palito até a de um lápis.
+   Devem estalar ao quebrar (se dobrarem, estão úmidos).
+3. LENHA: do dedo ao pulso, e depois maiores.
+DICA: galhos mortos AINDA PRESOS na árvore são mais secos que os
+caídos no chão.
+
+MÉTODOS (do mais fácil ao mais difícil)
+---------------------------------------
+1. ISQUEIRO / FÓSFORO
+   - Leve sempre dois. Guarde fósforos em recipiente à prova
+     d'água. Isqueiro frio: aqueça no bolso/axila.
+
+2. PEDERNEIRA (ferro-cério / "ferro rod")
+   - Funciona molhada. Raspe com o dorso da faca ou raspador,
+     puxando a PEDERNEIRA para trás (não empurre o raspador,
+     assim não espalha a isca).
+   - Faça a faísca bem em cima da isca.
+
+3. ALGODÃO + VASELINA (isca de reserva)
+   - Bolinhas de algodão com vaselina queimam ~2-4 minutos.
+     Prepare em casa e leve num pote.
+
+4. LENTE (lupa, óculos de grau p/ hipermetropia, fundo de
+   garrafa, saco com água)
+   - Só com sol forte. Concentre o ponto de luz no menor tamanho
+     possível sobre material escuro. Sopre levemente ao fumegar.
+
+5. BATERIA + PALHA DE AÇO
+   - Encoste os dois polos de uma bateria 9V (ou duas pilhas em
+     série) numa palha de aço fina. Ela incandesce na hora.
+   - Cuidado: não carregue palha de aço junto da bateria 9V.
+
+6. FRICÇÃO - ARCO DE FRICÇÃO (bow drill)
+   - Último recurso: exige madeira seca, técnica e prática.
+   - Peças: tábua base, broca (eixo reto), arco com cordão,
+     soquete de apoio na mão (pedra ou madeira dura).
+   - Faça um entalhe em "V" na tábua junto ao furo; o pó quente
+     cai ali e forma a brasa. Transfira a brasa para a isca.
+   - TREINE EM CASA. Na emergência raramente dá certo na 1ª vez.
+
+MONTAGEM DA FOGUEIRA
+--------------------
+- TIPI (cone): pega rápido, boa para começar e dar luz.
+- CABANA (log cabin, camadas cruzadas): queima estável, boa
+  para cozinhar e para brasas.
+- Comece pequeno. Adicione gravetos aos poucos; só ponha lenha
+  grossa quando houver chama firme e brasa.
+- Chão molhado/neve: faça uma base de galhos verdes ou pedras.
+
+SEGURANÇA
+---------
+- Limpe um círculo de ~3 m sem folhas secas ao redor.
+- Longe de raízes, galhos baixos e do abrigo (exceto a distância
+  segura do modelo inclinado, ~1 m, com vigilância).
+- Não use pedras de rio próximas do fogo: podem estourar.
+- Nunca deixe o fogo sozinho. Ao sair: água, mexa, água de novo,
+  até tocar as cinzas com a mão sem queimar.
+- Nunca acenda fogo em ambiente fechado (monóxido de carbono).
+
+SINALIZAÇÃO
+-----------
+- 3 fogueiras em triângulo = sinal internacional de socorro.
+- Dia: folhas verdes ou borracha no fogo geram fumaça escura/
+  densa. Noite: chama alta e clara.

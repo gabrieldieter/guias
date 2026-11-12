@@ -1,0 +1,61 @@
+==============================================================
+ MANUAL 01-A  |  ENCONTRAR ÁGUA
+==============================================================
+
+PRIORIDADE
+----------
+Regra dos 3: ~3 dias sem água é o limite médio de sobrevivência
+(menos no calor ou com esforço). Água vem antes de comida.
+Necessidade mínima: 2 a 4 litros/pessoa/dia.
+
+ONDE PROCURAR
+-------------
+1. Pontos baixos do terreno: vales, fundos de encosta, ravinas.
+2. Vegetação mais verde e densa que o entorno (indica umidade).
+3. Animais:
+   - Trilhas de animais convergindo costumam levar à água.
+   - Pássaros e insetos (abelhas, mosquitos) voando baixo ao
+     amanhecer/entardecer indicam água próxima.
+4. Leito de rio seco: cave na CURVA EXTERNA do leito, no ponto
+   mais baixo. Se a areia estiver úmida a ~30 cm, espere encher.
+5. Rochas: fendas e depressões acumulam água de chuva.
+6. Litoral: cave atrás da primeira duna (acima da linha da maré).
+   A água doce flutua sobre a salgada; recolha só a camada de cima.
+
+COLETA
+------
+- CHUVA: lona, capa, sacos plásticos ou folhas grandes direcionando
+  para um recipiente. É a fonte mais segura disponível.
+- ORVALHO: amarre um pano limpo nos tornozelos e caminhe em capim
+  ao amanhecer; torça o pano num recipiente.
+- TRANSPIRAÇÃO VEGETAL: saco plástico transparente amarrado num
+  galho com folhas, exposto ao sol. Uma pedra no saco cria um ponto
+  baixo para a água escorrer. Rende pouco (copos/dia), mas ajuda.
+  NÃO use em plantas venenosas ou de seiva leitosa.
+- NEVE/GELO: derreta antes de consumir (comer neve gasta calor do
+  corpo e causa hipotermia).
+
+O QUE NUNCA BEBER
+-----------------
+- Água do mar (desidrata mais rápido).
+- Urina.
+- Álcool.
+- Água parada próxima a animais mortos, lixo, minas ou indústrias.
+- Água com cheiro químico, espuma ou cor estranha.
+
+ECONOMIZE A ÁGUA DO CORPO
+-------------------------
+- Descanse nas horas mais quentes; trabalhe ao amanhecer/à noite.
+- Fique na sombra, cubra a cabeça, mantenha a roupa no corpo.
+- Respire pelo nariz, fale pouco.
+- Se tiver pouca água, coma pouco (digestão consome água).
+- Não "racione" até desmaiar: beba o que precisa, procure mais.
+
+SINAIS DE DESIDRATAÇÃO
+----------------------
+Leve: sede, boca seca, urina escura e escassa.
+Grave: tontura, confusão, pulso rápido, ausência de urina.
+-> Grave = prioridade máxima de reidratação e busca de socorro.
+
+LEMBRETE: toda água encontrada na natureza deve ser PURIFICADA.
+Veja: purificacao.txt

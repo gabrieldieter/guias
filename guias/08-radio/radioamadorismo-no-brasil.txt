@@ -1,0 +1,117 @@
+==============================================================
+ MANUAL 08.2  |  RADIOAMADORISMO NO BRASIL
+==============================================================
+
+QUEM REGULA
+-----------
+- ANATEL: emite o certificado, o indicativo e fiscaliza.
+  Regras atuais: Regulamento do Serviço de Radioamador
+  (Resolução Anatel nº 697/2018 e atualizações).
+- LABRE (Liga de Amadores Brasileiros de Rádio Emissão):
+  representa o Brasil na IARU, tem sedes estaduais e
+  organiza a RENER. Bom lugar para começar.
+- Clubes locais: cursos, provas simuladas, repetidoras e
+  empréstimo de equipamentos.
+
+COMO TIRAR A LICENÇA (passo a passo)
+------------------------------------
+1. Cadastro no sistema da Anatel (gov.br).
+2. Agendar e fazer a prova do COER (Certificado de Operador
+   de Estação de Radioamador). Assuntos: legislação, ética
+   operacional e técnica básica de eletrônica/rádio.
+3. Aprovado: pagar as taxas (TFI/TFF) e receber o indicativo.
+4. Licenciar a estação (endereço, equipamentos).
+Obs.: requisitos, taxas e formato da prova mudam; confirme
+sempre no site da Anatel e com a LABRE do seu estado.
+
+CLASSES DE OPERADOR
+-------------------
+  CLASSE C - iniciante. Acesso a VHF/UHF e parte do HF
+             (inclui 40 m e 80 m), potência limitada.
+  CLASSE B - mais faixas e mais potência.
+  CLASSE A - acesso total às faixas e potência máxima.
+Promoção de classe por tempo de atividade e/ou prova.
+
+INDICATIVOS - O NÚMERO MOSTRA A REGIÃO (aproximado)
+---------------------------------------------------
+  1 - Rio de Janeiro / Espírito Santo      ex.: PY1, PP1
+  2 - São Paulo (e DF com PT2)             ex.: PY2, PU2, PT2
+  3 - Rio Grande do Sul                    ex.: PY3, PU3
+  4 - Minas Gerais                         ex.: PY4, PU4
+  5 - Paraná / Santa Catarina              ex.: PY5, PP5
+  6 - Bahia / Sergipe                      ex.: PY6, PP6
+  7 - Pernambuco, Paraíba, RN, Alagoas, CE ex.: PY7, PR7
+  8 - Região Norte, Maranhão, Piauí        ex.: PY8, PR8, PS8
+  9 - MT, MS, Goiás, Tocantins             ex.: PY9, PT9
+  PU = classe C (iniciante)  |  PY/PP/PT... = demais classes
+  ZY/ZZ/ZV = estações especiais, clubes e expedições.
+
+FAIXAS NO BRASIL (resumo, verificar tabela oficial da Anatel)
+------------------------------------------------------------
+  40 m  7,000 - 7,300 MHz   principal faixa nacional
+  80 m  3,500 - 3,800 MHz   regional à noite
+  20 m 14,000 - 14,350 MHz  contatos internacionais
+   2 m 144 - 148 MHz        repetidoras FM, portáteis
+  70 cm 430 - 440 MHz       repetidoras, portáteis
+Rodas (conversas em grupo) informais acontecem quase todo dia
+em 40 m, principalmente entre 7,050 e 7,200 MHz, manhã e noite.
+
+REPETIDORAS
+-----------
+- Estações automáticas no alto de morros/prédios que
+  retransmitem o sinal e ampliam o alcance de um portátil
+  de poucos km para 50-100 km.
+- Funcionam com DESLOCAMENTO (shift):
+    2 m:  -600 kHz (ou +600)    70 cm: +5 MHz (ou -5)
+  E muitas exigem TOM (CTCSS/subtom). Anote shift e tom das
+  repetidoras da sua região ANTES de precisar.
+- Muitas têm bateria/solar e continuam no ar após apagões,
+  mas nem todas. Pergunte ao clube local.
+- Exemplo de anotação:
+    Repetidora ____________  Freq. saída: _______ MHz
+    Shift: ____  Tom: _____ Hz  Cobertura: ______________
+
+RENER - REDE NACIONAL DE EMERGÊNCIA DE RADIOAMADORES
+---------------------------------------------------
+- Rede de voluntários radioamadores coordenada pela LABRE em
+  apoio à DEFESA CIVIL (SEDEC/Ministério da Integração).
+- Já atuou em enchentes (ex.: Rio Grande do Sul 2024, região
+  serrana do RJ 2011, Santa Catarina 2008), deslizamentos e
+  apagões, levando informação de áreas isoladas.
+- Para participar: seja licenciado, procure a LABRE do seu
+  estado, cadastre-se e participe dos treinamentos.
+- Frequências de trabalho variam por estado e evento.
+  Em desastre: escute 40 m (7,000 - 7,300), as frequências
+  IARU de emergência (manual 08.1) e as repetidoras locais.
+
+RADIOESCUTA (PARA QUEM NÃO TEM LICENÇA)
+--------------------------------------
+- OUVIR radioamadores, rádio AM/FM/OC, aviação e marinha é
+  permitido. É o primeiro passo e já é muito útil em crise.
+- Divulgar ou usar conteúdo de comunicação privada é proibido
+  (sigilo das telecomunicações). Ouvir rádio aberto é livre.
+- Equipamento: rádio receptor multibanda com OC e SSB, ou um
+  SDR USB + notebook. Antena: um fio de 10-20 m esticado.
+
+O QUE NÃO PODE
+--------------
+- Transmitir sem licença em faixas de radioamador, polícia,
+  aviação, marinha etc. (exceto pedido de socorro real).
+- Rádios portáteis baratos importados (tipo "HT chinês")
+  transmitem em muitas faixas. TER pode; TRANSMITIR fora da
+  faixa permitida e sem licença é infração (multa, apreensão
+  e até crime - Lei 9.472/97, art. 183).
+- Fazer propaganda comercial, transmitir música ou usar
+  linguagem codificada para esconder conteúdo.
+
+ALTERNATIVAS SEM LICENÇA DE RADIOAMADOR (ver regras atuais)
+----------------------------------------------------------
+- PX / Faixa do Cidadão (27 MHz, 40 canais, AM/SSB):
+    Canal 9 (27,065 MHz) = EMERGÊNCIA
+    Canal 19 (27,185 MHz) = muito usado em estradas
+  Alcance de 5-30 km; à longa distância em dias de propagação.
+- Rádios de uso livre (talkabout, 462/467 MHz) homologados
+  pela Anatel: alcance de 1-5 km. Combine um canal com a
+  família ANTES de uma emergência.
+- Confira na Anatel se o seu equipamento é homologado e
+  se o uso exige cadastro, pois as regras já mudaram.

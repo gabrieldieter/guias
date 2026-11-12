@@ -1,0 +1,112 @@
+==============================================================
+ MANUAL 08.4  |  ESTAÇÕES NACIONAIS E DE INFORMAÇÃO
+==============================================================
+
+POR QUE O RÁDIO COMUM IMPORTA
+-----------------------------
+Em apagões e desastres, celular e internet caem primeiro.
+Emissoras de rádio têm geradores e alcance de centenas de km,
+e passam avisos da Defesa Civil, abrigos, rotas e resgates.
+Um rádio AM/FM/OC a pilha ou manivela é item obrigatório.
+
+TIPOS DE ONDA E ALCANCE
+-----------------------
+  FM (88-108 MHz) ....... som bom, alcance 30-100 km.
+  AM / OM (530-1700 kHz)  alcance de 100-300 km de dia, e
+                          MUITO MAIS À NOITE (até milhares km).
+  OC / Ondas Curtas (2,3-26 MHz) .. alcance nacional e
+                          internacional; ideal em regiões
+                          remotas (Amazônia, interior, mar).
+Atenção: muitas rádios AM no Brasil MIGRARAM para FM
+(faixa estendida 76-88 MHz em algumas cidades). Rádio antigo
+pode não pegar a faixa estendida.
+
+A VOZ DO BRASIL
+---------------
+- Programa oficial obrigatório, em TODAS as rádios do país,
+  de segunda a sexta às 19h (horário de Brasília; algumas
+  emissoras têm horário flexível até as 22h).
+- Em crise nacional, é canal garantido de informação oficial
+  do governo federal.
+
+EMPRESA BRASIL DE COMUNICAÇÃO (EBC) - RÁDIOS PÚBLICAS
+-----------------------------------------------------
+  Rádio Nacional da Amazônia (Brasília) - ONDAS CURTAS
+      6180 kHz e 11780 kHz. Feita para cobrir a Amazônia e
+      áreas isoladas; pode ser ouvida em boa parte do país.
+  Rádio Nacional de Brasília ....... AM 980 kHz | FM 96,1 MHz
+  Rádio Nacional do Rio de Janeiro . AM 1130 kHz
+  Rádio Nacional do Alto Solimões .. FM (Tabatinga - AM)
+  Rádio MEC (Rio de Janeiro) ....... AM 800 kHz | FM 98,9 MHz
+  Rádio MEC Brasília ............... FM 87,1 MHz
+
+PRINCIPAIS EMISSORAS DE GRANDE ALCANCE (AM/FM)
+---------------------------------------------
+São Paulo:    Jovem Pan News (AM 620 kHz), CBN (FM 90,5),
+              Band News, Bandeirantes (FM 90,9)
+Rio:          CBN (FM 92,5), Rádio Tupi (AM 1280 / FM 96,5),
+              Super Rádio Tupi, BandNews FM
+Minas Gerais: Itatiaia (AM 610 kHz / FM 95,7)
+Rio G. do Sul: Rádio Gaúcha (AM 600 kHz / FM 93,7) - foi
+              referência de informação nas enchentes de 2024;
+              Rádio Guaíba (FM 101,3)
+Paraná:       Banda B, CBN Curitiba
+Bahia:        Rádio Sociedade da Bahia
+Pernambuco:   Rádio Jornal (AM 780 kHz / FM 90,3)
+Amazonas:     Rádio Difusora do Amazonas
+À NOITE, rádios AM potentes de outras capitais chegam longe:
+gire devagar o dial de AM e anote as que você pega.
+
+ONDAS CURTAS BRASILEIRAS (verificar - frequências mudam)
+-------------------------------------------------------
+  Rádio Nacional da Amazônia ...... 6180 / 11780 kHz
+  Rádio Aparecida (SP) ............ 5035 / 6135 / 9630 kHz
+  Rádio Gaúcha (RS) ............... 6020 / 11915 kHz
+  Rádio Bandeirantes (SP) ......... 9645 / 11925 kHz
+  Rádio Canção Nova (SP) .......... 9675 kHz
+  Várias rádios da região Norte em 60 m e 49 m (4,7-6,2 MHz).
+  Muitas OC brasileiras saíram do ar nos últimos anos; teste
+  o seu rádio AGORA e anote o que realmente funciona.
+
+INTERNACIONAIS EM ONDAS CURTAS (escuta no Brasil)
+------------------------------------------------
+Várias emissoras reduziram ou encerraram transmissões em OC.
+Use a lista abaixo como ponto de partida e confira no site
+de cada uma ou em bases como short-wave.info / EiBi:
+  Radio Exterior de España (espanhol)
+  RFI - Radio France Internationale
+  China Radio International (inclui português)
+  Radio Habana Cuba (espanhol/inglês)
+  BBC World Service (horários e idiomas reduzidos)
+  Rádio Vaticano, Radio Romania International
+  Estações religiosas (WRMI, WWCR, Rádio Trans Mundial)
+
+SINAIS HORÁRIOS (ótimos para TESTAR a propagação)
+------------------------------------------------
+  WWV (EUA) ... 2,5 / 5 / 10 / 15 / 20 / 25 MHz
+  WWVH (Havaí)  2,5 / 5 / 10 / 15 MHz
+  CHU (Canadá)  3,330 / 7,850 / 14,670 MHz
+  Transmitem hora exata 24 h. Se você ouve 10 ou 15 MHz,
+  as faixas altas estão abertas; se só ouve 5 MHz, use as
+  baixas. Também servem para acertar o relógio sem internet.
+
+COMO OUVIR MELHOR
+-----------------
+- Fique perto de janela ou ao ar livre; prédios bloqueiam.
+- Antena telescópica TODA estendida. Em OC, prenda um fio de
+  5-20 m na ponta da antena e estique para fora/alto.
+- AM: gire o rádio (a antena interna é direcional).
+- Afaste de lâmpadas LED, carregadores, TV, computador:
+  geram ruído.
+- À noite AM e OC baixas (5-7 MHz) melhoram muito; de dia,
+  OC altas (11-15 MHz).
+- Anote estação, frequência, horário e qualidade. Essa lista
+  vale ouro numa emergência.
+
+MINHA LISTA DE ESTAÇÕES (preencha testando o seu rádio)
+------------------------------------------------------
+  FM local de notícias: ______________ MHz
+  AM local:             ______________ kHz
+  AM à noite (longe):   ______________ kHz
+  Ondas curtas:         ______________ kHz
+  Rádio da Defesa Civil/prefeitura: ___________________
